@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nikolas-Bars/homework/static/css/main.073c9b0a.css",
+    "main.js": "/Nikolas-Bars/homework/static/js/main.8114d998.js",
+    "static/js/787.177e23c2.chunk.js": "/Nikolas-Bars/homework/static/js/787.177e23c2.chunk.js",
+    "index.html": "/Nikolas-Bars/homework/index.html",
+    "main.073c9b0a.css.map": "/Nikolas-Bars/homework/static/css/main.073c9b0a.css.map",
+    "main.8114d998.js.map": "/Nikolas-Bars/homework/static/js/main.8114d998.js.map",
+    "787.177e23c2.chunk.js.map": "/Nikolas-Bars/homework/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8114d998.js"
+  ]
+}
